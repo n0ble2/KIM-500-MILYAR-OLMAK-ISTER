@@ -1,0 +1,16 @@
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\bin\Debug\KM500olmak.exe.config
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\bin\Debug\KM500olmak.exe
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\bin\Debug\KM500olmak.pdb
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\obj\Debug\KM500olmak.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\obj\Debug\KM500olmak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\obj\Debug\KM500olmak.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\obj\Debug\KM500olmak.exe
+C:\Users\Pc\Desktop\KM500olmak\KM500olmak\obj\Debug\KM500olmak.pdb
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\bin\Debug\KM500olmak.exe.config
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\bin\Debug\KM500olmak.exe
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\bin\Debug\KM500olmak.pdb
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\obj\Debug\KM500olmak.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\obj\Debug\KM500olmak.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\obj\Debug\KM500olmak.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\obj\Debug\KM500olmak.exe
+C:\Users\Pc\Desktop\Bütün projeler\KM500olmak\KM500olmak\obj\Debug\KM500olmak.pdb
